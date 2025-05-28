@@ -7,7 +7,7 @@ This repository contains Java course codes and projects developed as part of a J
 - Multiple Java source files (`*.java`) demonstrating object-oriented programming concepts such as inheritance, type casting, and class design.
 - Compiled class files (`*.class`) for immediate execution.
 - Organized folders containing additional course materials and exercises for different course modules (`OOP1_C1_Spring_2022-23`, etc.).
-- Practical examples on topics like static members, inheritance, and type casting.
+- Practical examples on topics like static members, inheritance, polymorphism, and type casting etc.
 
 ## Features
 
@@ -18,7 +18,7 @@ This repository contains Java course codes and projects developed as part of a J
 
   
 ## Course Instructor
-**Md. Nazmul Hossian**  
+**Md. Nazmul Hossain**  
 Asst. Professor, Dept. of CSE  
 American International University - Bangladesh
 
